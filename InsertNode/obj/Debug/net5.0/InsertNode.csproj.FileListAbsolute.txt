@@ -1,0 +1,16 @@
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\bin\Debug\net5.0\InsertNode.exe
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\bin\Debug\net5.0\InsertNode.deps.json
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\bin\Debug\net5.0\InsertNode.runtimeconfig.json
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\bin\Debug\net5.0\InsertNode.runtimeconfig.dev.json
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\bin\Debug\net5.0\InsertNode.dll
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\bin\Debug\net5.0\ref\InsertNode.dll
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\bin\Debug\net5.0\InsertNode.pdb
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\obj\Debug\net5.0\InsertNode.csproj.AssemblyReference.cache
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\obj\Debug\net5.0\InsertNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\obj\Debug\net5.0\InsertNode.AssemblyInfoInputs.cache
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\obj\Debug\net5.0\InsertNode.AssemblyInfo.cs
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\obj\Debug\net5.0\InsertNode.csproj.CoreCompileInputs.cache
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\obj\Debug\net5.0\InsertNode.dll
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\obj\Debug\net5.0\ref\InsertNode.dll
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\obj\Debug\net5.0\InsertNode.pdb
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\InsertNode\obj\Debug\net5.0\InsertNode.genruntimeconfig.cache

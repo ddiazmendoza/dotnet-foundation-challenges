@@ -1,0 +1,16 @@
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\bin\Debug\net5.0\GradebookSystem.exe
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\bin\Debug\net5.0\GradebookSystem.deps.json
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\bin\Debug\net5.0\GradebookSystem.runtimeconfig.json
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\bin\Debug\net5.0\GradebookSystem.runtimeconfig.dev.json
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\bin\Debug\net5.0\GradebookSystem.dll
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\bin\Debug\net5.0\ref\GradebookSystem.dll
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\bin\Debug\net5.0\GradebookSystem.pdb
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\obj\Debug\net5.0\GradebookSystem.csproj.AssemblyReference.cache
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\obj\Debug\net5.0\GradebookSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\obj\Debug\net5.0\GradebookSystem.AssemblyInfoInputs.cache
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\obj\Debug\net5.0\GradebookSystem.AssemblyInfo.cs
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\obj\Debug\net5.0\GradebookSystem.csproj.CoreCompileInputs.cache
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\obj\Debug\net5.0\GradebookSystem.dll
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\obj\Debug\net5.0\ref\GradebookSystem.dll
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\obj\Debug\net5.0\GradebookSystem.pdb
+C:\Users\d_dia\source\repos\dotnet-foundation-codingChallenges\GradebookSystem\obj\Debug\net5.0\GradebookSystem.genruntimeconfig.cache
