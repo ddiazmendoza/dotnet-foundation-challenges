@@ -123,7 +123,7 @@ namespace InsertNode
             {
                 headNode = new Node(data);
             }
-            else 
+            
         }
         public void Print() 
         {
